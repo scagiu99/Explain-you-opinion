@@ -8,4 +8,4 @@ The aim of this project is to perform a Sentiment Analysis Classification of doc
 
 - `Project.ipynb`: Contains the Jupyter notebooks for data exploration and model training.
 - `Project_Report.pdf`: Contains the Report with the description of the results
-- `Dataset/`: Contains the dataset.
+- `Datasets/`: Contains the dataset.
