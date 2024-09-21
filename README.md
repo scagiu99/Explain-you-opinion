@@ -3,6 +3,9 @@ Project for the University Master Degree Course of Information Retrieval/Natural
 
 The aim of this project is to perform a Sentiment Analysis Classification of documents using the Born Classifier. The goal is to exploit the Born explanation in order to use it for Aspect Based Sentiment Analysis. 
 
+## Dataset
+The projects described in this document refer to the [Twitter Sentiment Analysis Dataset](https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis), which is published on Kaggle and released under the [CC0 license: Public Domain](https://creativecommons.org/publicdomain/zero/1.0/).
+
 ## Requirements
 
 - `bornrule`
